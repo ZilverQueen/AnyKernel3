@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=ugg
 device.name2=ugglite
-supported.versions=10-12.1
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
